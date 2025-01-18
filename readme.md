@@ -1,4 +1,4 @@
-# Learning_outcomes
+# Learning outcomes
 
 
 Project Name = Hospital Revenue Cycle Management (RCM)
